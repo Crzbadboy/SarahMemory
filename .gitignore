@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.log
+*.db
+*.bak
+*.zip
+*.vhd
+*.exe
+.env/
+venv/
+data/backup/
+data/logs/
+data/models/
+sandbox/

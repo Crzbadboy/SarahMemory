@@ -1,0 +1,38 @@
+/* Vibrant Colorful Theme for SarahMemoryGUI.py */
+/* Global Background: A subtle gradient */
+body {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    color: #2c3e50;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+/* Frames */
+.TFrame {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+/* Labels */
+.TLabel {
+    background-color: transparent;
+    color: #34495e;
+    font-family: "Impact", sans-serif;  /* Bold, attention-catching font for labels */
+    font-size: 12pt;
+}
+
+/* Buttons */
+.TButton {
+    background-color: #f39c12;
+    color: #2c3e50;
+    font-family: "Tahoma", sans-serif;
+    font-size: 10pt;
+}
+
+/* Chat Text */
+.ChatText {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #2c3e50;
+    font-family: "Courier New", monospace;  /* Monospaced for a techy feel */
+    font-size: 11pt;
+}
+
+

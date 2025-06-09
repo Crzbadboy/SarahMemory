@@ -1,0 +1,93 @@
+# Core AI & ML
+sentence-transformers>=4.1.0
+transformers>=4.51.3
+torch>=2.6.0
+faiss-cpu>=1.10.0
+scikit-learn>=1.6.1
+numpy>=2.2.4
+huggingface-hub>=0.30.2
+
+# Vision, Audio, Interaction
+opencv-python>=4.11.0.86
+pillow>=11.1.0
+pyttsx3>=2.98
+pyaudio>=0.2.14
+pygame>=2.5.2
+SpeechRecognition>=3.14.3
+
+# File Parsing and Text Tools
+mammoth>=1.9.0
+PyPDF2>=3.0.1
+docx>=0.2.4
+python-docx>=1.1.2
+pyyaml>=6.0.2
+regex>=2024.11.6
+
+# GUI and Qt Framework
+PyQt5>=5.15.11
+PyQt5-Qt5>=5.15.2
+PyQt5_sip>=12.17.0
+
+# API, Web, NLP
+requests>=2.32.3
+aiohttp>=3.11.16
+httpx>=0.28.1
+flask>=2.2.2
+fastapi>=0.115.12
+openai>=0.27.0
+spacy>=3.8.4
+langchain>=0.3.23
+pydantic>=2.10.3
+
+# Data and System Utilities
+pywin32>=310
+psutil>=7.0.0
+scipy>=1.15.2
+SQLAlchemy>=2.0.40
+python-dotenv>=0.21.0
+
+# Crypto & Blockchain
+cryptography>=44.0.2
+pycryptodome>=3.22.0
+eth-account>=0.13.7
+web3>=7.6.0
+
+# GUI/Automation/Interaction
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+pyscreeze>=1.0.1
+mouseinfo>=0.1.3
+
+# Developer and Packaging Tools
+pyinstaller>=6.13.0
+setuptools>=65.5.0
+pip>=25.0.1
+virtualenv>=20.30.0
+
+# Audio Tools
+pydub>=0.25.1
+noisereduce>=3.0.3
+
+# Blender, Unreal, 3D
+bpy>=4.4.0
+blender>=1.4
+trimesh>=4.6.9
+
+# Utility/Logging/Compression
+tqdm>=4.67.1
+rich>=13.9.4
+orjson>=3.10.16
+zstandard>=0.23.0
+
+# Extra Dependencies
+pyperclip>=1.9.0
+pyjwt>=2.10.1
+matplotlib>=3.10.1
+pandas>=2.2.2
+
+# For Object Models
+super-gradients==3.4.1
+onnx==1.14.1
+cmake>=3.25
+protobuf==3.20.3
+torch>=2.0.0

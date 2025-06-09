@@ -1,0 +1,28 @@
+
+/* Matrix Theme - Simulates the green code rain aesthetic */
+body {
+    background-color: black;
+    color: #00FF00;
+    font-family: "Courier New", monospace;
+}
+.TFrame {
+    background-color: #000000;
+}
+.TLabel {
+    background-color: transparent;
+    color: #00FF00;
+    font-size: 11pt;
+    font-family: "Lucida Console", monospace;
+}
+.TButton {
+    background-color: #003300;
+    color: #00FF00;
+    font-size: 10pt;
+    font-family: "Courier", monospace;
+}
+.ChatText {
+    background-color: #000000;
+    color: #00FF00;
+    font-size: 11pt;
+    font-family: "Courier New", monospace;
+}

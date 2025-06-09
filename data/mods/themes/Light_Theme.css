@@ -1,0 +1,38 @@
+/* Light Theme for SarahMemoryGUI.py */
+/* Global Background and Text */
+body {
+    background-color: #ffffff;
+    color: #333333;
+    font-family: "Tahoma", sans-serif;
+}
+
+/* Frames */
+.TFrame {
+    background-color: #ffffff;
+}
+
+/* Labels */
+.TLabel {
+    background-color: #ffffff;
+    color: #333333;
+    font-family: "Calibri", sans-serif;  /* Different font for labels */
+    font-size: 11pt;
+}
+
+/* Buttons */
+.TButton {
+    background-color: #f0f0f0;
+    color: #333333;
+    font-family: "Verdana", sans-serif; /* Buttons use Verdana */
+    font-size: 10pt;
+}
+
+/* Chat Text */
+.ChatText {
+    background-color: #f9f9f9;
+    color: #444444;
+    font-family: "Lucida Console", monospace; /* Chat text uses a monospace font */
+    font-size: 10pt;
+}
+
+

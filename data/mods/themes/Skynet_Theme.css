@@ -1,0 +1,28 @@
+
+/* Skynet Theme - Based on Terminator's futuristic interface */
+body {
+    background-color: #111111;
+    color: #FF0000;
+    font-family: "Eurostile", sans-serif;
+}
+.TFrame {
+    background-color: #222222;
+}
+.TLabel {
+    background-color: transparent;
+    color: #FF0000;
+    font-size: 13pt;
+    font-family: "Eurostile", sans-serif;
+}
+.TButton {
+    background-color: #440000;
+    color: #FF0000;
+    font-size: 10pt;
+    font-family: "Eurostile", sans-serif;
+}
+.ChatText {
+    background-color: #000000;
+    color: #FF0000;
+    font-size: 11pt;
+    font-family: "Consolas", monospace;
+}

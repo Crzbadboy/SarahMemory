@@ -1,0 +1,74 @@
+User: “How do I build a hamburger?”
+        │
+        ▼
+[ChatPanel.send_message(text)]
+  • Captures raw input into `text`/`user_text`
+        │
+        ▼
+Intent Classification
+  intent = classify_intent(user_text)
+  • classifies “How do I build a hamburger?” → “question”
+        │
+        ▼
+┌─────────────────────────────────────────┐
+│ Is intent == “question”?               │
+└─────────────────────────────────────────┘
+         │ Yes                              │ No
+         ▼                                  ▼
+ Retrieve via 3‑Stage Pipeline        Personality or Command
+ (Local → Online → API)               (e.g. greeting/command flows)
+         │
+         ▼
+┌───────────────────────────────┐
+│ Stage 1: Local DB lookup      │
+│ raw_hits = search_answers(…)  │
+└───────────────────────────────┘
+         │
+    ┌────┴────┐
+    │         │
+  >1 hit     =1 hit     0 hits
+    │         │         │
+    │         │         ▼
+    │         │   ┌───────────────────┐
+    │         │   │ Stage 2: Online    │
+    │         │   │ research.get_research_data(query) │
+    │         │   └───────────────────┘
+    │         │         │
+    │         │    ┌────┴────┐
+    │         │    │         │
+    │         │  >1 summary  =1 summary  0 summary
+    │         │    │         │           │
+    │         │    │         │           ▼
+    │         │    │         │    ┌───────────────────┐
+    │         │    │         │    │ Stage 3: API call │
+    │         │    │         │    │ send_to_openai    │
+    │         │    │         │    └───────────────────┘
+    │         │    │         │           │
+    │         │    │         │           ▼
+    │         │    │         │     raw = API reply
+    │         │    │         │
+    │         │    │         └────┐
+    │         │    │              │
+    │         │    │     raw = online summary
+    │         │    │
+    │         │    └─────────┐
+    │         │              │
+    │  raw = local_hits[0]   │
+    │                       ▼
+    └─────────────── raw ──────────────┘
+                │
+                ▼
+  Cache & Reset Mode
+  • store_answer(query, raw)  
+  • config.CURRENT_MODE = “Local”  
+                │
+                ▼
+    Personality Wrapping
+    final = process_interaction(raw)
+      • adds context, logs, reply‑pool fallback only if raw was empty
+                │
+                ▼
+       Output to User
+    • chat_panel.append_message("Sarah: " + final)  
+    • speak & lip‑sync  
+
