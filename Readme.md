@@ -1,3 +1,11 @@
+# SarahMemory AI Companion
+![License](https://img.shields.io/badge/license-Custom%20%7C%2010%25%20Royalty-blue?style=flat-square)
+![Author](https://img.shields.io/badge/Author-Brian%20Lee%20Baros-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Personal%20Use%20Only-yellow)
+
+> Version 7.1.2 · © 2025 Brian Lee Baros. All Rights Reserved.
+
+# SarahMemory AI Companion
 # README.md <Version 7.1.2>
 # © 2025 Brian Lee Baros. All Rights Reserved.
 

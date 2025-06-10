@@ -1291,6 +1291,7 @@ class StatusBar:
         global MIC_STATUS, CAMERA_STATUS
         status_text = f"Mode: {mode} | Voice: {voice_profile} | Avatar: {avatar_file} | Mic: {MIC_STATUS} | Camera: {CAMERA_STATUS}"
         self.status_label.config(text=status_text)
+        self.gui.status_bar.display_message("© 2025 Brian Lee Baros.")
 
         try:
             future = asyncio.run_coroutine_threadsafe(async_update_network_state(), async_loop)
