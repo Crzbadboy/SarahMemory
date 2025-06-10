@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryIntegration.py <Version #6.2 Enhanced>
+SarahMemoryIntegration.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Author: Brian Lee Baros
 
 Manages the integration interface for SarahMemory AI System.

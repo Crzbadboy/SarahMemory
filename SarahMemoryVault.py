@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryVault.py <Version #6.4 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryVault.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: Implements a secure, encrypted vault for sensitive data storage and backups.
 Enhancements (v6.4):
   - Upgraded version header.

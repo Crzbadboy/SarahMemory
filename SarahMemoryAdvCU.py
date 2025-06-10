@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryAdvCU.py <Version #7.0 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryAdvCU.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description:
   
   - Tightened question logic to prioritize semantic evaluation and re-routes math queries explicitly

@@ -1,6 +1,5 @@
 """
-SarahMemorySystemIndexer.py <Version 7.0 GUI Enhanced>
-Author: Brian Lee Baros
+SarahMemorySystemIndexer.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 
 This script scans mounted drives for files (.doc, .pdf, etc.) and logs registry values.
 Now includes a GUI dropdown for selecting drive letters and file types.

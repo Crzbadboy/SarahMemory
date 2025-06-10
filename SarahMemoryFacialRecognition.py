@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryFacialRecognition.py <Version #7.0 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryFacialRecognition.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: Combined file for webcam-based facial recognition and vector similarity memory functionalities.
 This file merges the functionalities from SarahMemoryFacialRecognition.py and SarahMemoryVSM.py.
 

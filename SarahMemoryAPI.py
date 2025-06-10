@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # ============================================
-# SarahMemoryAPI.py <Version 7.0 Unified> By Brian Lee Baros
+# SarahMemoryAPI.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 # Description: Unified API Connector for Class 3 Research
 # Supports: OpenAI, Claude, Mistral, Gemini, HuggingFace
 # ============================================

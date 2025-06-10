@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryReminder.py <Version #7.0 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryReminder.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: Consolidates reminder functionality using APScheduler for scheduling tasks.
 Reminders are stored and reloaded from and logged to the reminders.db.
 """

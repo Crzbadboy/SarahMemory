@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryMain.py <System Launcher Enhanced v6.6>
+SarahMemoryMain.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Author: Brian Lee Baros
 Last Modified: 2025-03-31
 

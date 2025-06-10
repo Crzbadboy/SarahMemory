@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryDiagnostics.py <Version #6.4 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryDiagnostics.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Performs initial system diagnostics to ensure required modules, APIs, and system files are operational.
 Enhancements (v6.4):
   - Upgraded version header.

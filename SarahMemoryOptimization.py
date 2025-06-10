@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryOptimization.py <Version #7.0 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryOptimization.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: Monitors and adjusts system performance by optimizing CPU, memory, and disk usage and coordinates 
     idle-time deep learning + research + dataset assimilation.optimization monitor using asynchronous loops.
 Notes:

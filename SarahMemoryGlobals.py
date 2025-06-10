@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryGlobals.py <Version #7.0 Enhanced>
+SarahMemoryGlobals.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Author: Brian Lee Baros
 
 Centralized global configuration module for SarahMemory.

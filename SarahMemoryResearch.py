@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # ============================================
-# SarahMemoryResearch.py by Brian Lee Baros
+# SarahMemoryResearch.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 # Description: Multi-Class Research Engine (Local > Web > API) + Parallelization
-# Version: 7.0.1
 # ============================================
 
 import logging

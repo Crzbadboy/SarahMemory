@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemorySynapes.py <Version #6.4 Enhanced> <Author: Brian Lee Baros>
+SarahMemorySynapes.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: The 'brain' module for self-updating and autonomous enhancements.
 Enhancements (v6.4):
   - Upgraded version header.

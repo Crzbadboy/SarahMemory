@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemorySoftwareResearch.py <Version #6.4 Enhanced> <Author: Brian Lee Baros & ChatGPT>
+SarahMemorySoftwareResearch.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: Self-Research automation module.
 Enhancements (v6.4):
   - Upgraded version header.

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryFilesystem.py <Version #7.0 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryFilesystem.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description:
   Handles file and directory structure creation, backup/restore operations, and compression management.
 """

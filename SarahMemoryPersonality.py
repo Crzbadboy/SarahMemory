@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryPersonality.py <Version #7.0 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryPersonality.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description:
   Logs interactions, computes engagement, and dynamically generates context-aware responses
   using a database-backed personality model. 

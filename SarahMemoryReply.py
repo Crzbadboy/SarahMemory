@@ -1,4 +1,4 @@
-# LAST UPDATE OF A GOOD WORKING VERSION OF SARAHMEMORYREPLY.PY v7.1.2 - 06/08/2025
+# LAST UPDATE OF A GOOD WORKING VERSION OF <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 import discord
 from discord.ext import commands
 import _asyncio

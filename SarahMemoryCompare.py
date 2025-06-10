@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryCompare.py <Version 7.1 Enhanced>
+SarahMemoryCompare.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 ✅ Primary Function
 Compare multiple sources (Local, Web, API variants)
 Score responses based on:

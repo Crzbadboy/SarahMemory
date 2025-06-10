@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 SarahMemorySystemLearn.py
-Author: Brian Lee Baros
-Version: 7.0
+<Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 
 Purpose:
   Ingest and pretrain indexed information for improved recall/responses.

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # ============================================
-# SarahMemorySi.py version 7.0 By Brian Lee Baros
+# SarahMemorySi.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 # Description: Dynamic Software Intelligence System (No Refactor, Only Correct Injected Registry Lookup)
 # ============================================
 

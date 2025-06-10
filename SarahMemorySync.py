@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemorySync.py <Version #6.4 Enhanced> <Author: Brian Lee Baros>
+SarahMemorySync.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: Synchronizes local data with cloud storage using Dropbox and syncs data across instances.
 Enhancements (v6.4):
   - Upgraded version header.

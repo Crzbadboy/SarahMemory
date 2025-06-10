@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryHi.py <Version #6.4 Enhanced> <Author: Brian Lee Baros & ChatGPT>
+SarahMemoryHi.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: Retrieves detailed system and hardware information and displays it on a GUI.
 Enhancements (v6.4):
   - Upgraded version header.

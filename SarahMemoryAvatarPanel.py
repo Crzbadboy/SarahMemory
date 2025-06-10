@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryAvatarPanel <Version #7.0 CLI Enhanced>
+SarahMemoryAvatarPanel <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Author: Brian Lee Baros
 This file is strictly for launching the AvatarPanel from SarahMemoryGUI.py
 

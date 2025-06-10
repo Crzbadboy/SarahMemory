@@ -2,7 +2,7 @@
 # SarahMemoryADDONLCHR.py
 # Add-On Launcher and Management Module for SarahMemory
 # PATCH: Proper Launch of Independent GUI Addons (with New Console Window, Log Capture, and Crash Detection)
-# Version: 7.0
+# <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 # ============================================
 
 import os

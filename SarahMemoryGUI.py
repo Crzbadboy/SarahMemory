@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryGUI.py <Unified GUI Interface Enhanced> <Version #7.0 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryGUI.py <Unified GUI Interface Enhanced> <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description:
   This unified GUI combines video chat, text chat, file transfer, live voice input, and an animated avatar.
   The avatar is animated using PyTorch with GPU acceleration (if available) and displayed in the Avatar Panel.

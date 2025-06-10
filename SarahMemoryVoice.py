@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryVoice.py <Version #6.4 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryVoice.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description:
   Unified Voice module that handles both speech synthesis and speech recognition.
   - For synthesis, it uses pyttsx3 with support for dynamic rate, pitch, bass, and treble (simulated).

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryExpressOut.py <Version #6.4 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryExpressOut.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: Adds expressive phrases and emojis to outbound messages.
 Enhancements (v6.4):
   - Upgraded version header.

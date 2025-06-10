@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemorySOBJE.py <Version #6.5 Enhanced> <Author: Brian Lee Baros>
+SarahMemorySOBJE.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description: THIS FILE FUNCTIONS ARE TO BE USED IN THE "SarahMemoryGUI.py" FILE UNDER 
 "class SuperObjectEngine(sobje)"
 Combined file for webcam-based object recognition and vector similarity memory functionalities.

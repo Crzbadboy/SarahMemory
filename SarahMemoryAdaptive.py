@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SarahMemoryAdaptive.py <Version #7.0 Enhanced> <Author: Brian Lee Baros>
+SarahMemoryAdaptive.py <Version #7.1.2 Enhanced> <Author: Brian Lee Baros> rev. 060920252100
 Description:
   Combined file that handles adaptive behavior and simulates dynamic emotional state.
   This file merges functionalities from the former SarahMemoryAdaptive.py and SarahMemoryEsim.py modules.
