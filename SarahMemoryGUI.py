@@ -1251,6 +1251,7 @@ class StatusBar:
         # status text
         self.status_label = ttk.Label(self.frame, text="", anchor=tk.W, style="StatusBar.TLabel")
         self.status_label.pack(side=tk.LEFT, padx=5)
+        
         # Intent status light
         self.intent_canvas = tk.Canvas(self.frame, width=20, height=20, highlightthickness=0)
         self.intent_canvas.pack(side=tk.RIGHT, padx=5)
@@ -1291,7 +1292,7 @@ class StatusBar:
         global MIC_STATUS, CAMERA_STATUS
         status_text = f"Mode: {mode} | Voice: {voice_profile} | Avatar: {avatar_file} | Mic: {MIC_STATUS} | Camera: {CAMERA_STATUS}"
         self.status_label.config(text=status_text)
-        self.gui.status_bar.display_message("© 2025 Brian Lee Baros.")
+        #self.status_bar.display_message("© 2025 Brian Lee Baros.")
 
         try:
             future = asyncio.run_coroutine_threadsafe(async_update_network_state(), async_loop)

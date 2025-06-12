@@ -46,14 +46,14 @@ MULTI_MODEL = True  # When True, allows multiple models to be enabled and used i
 ENABLE_MODEL_A = False   # 🧠 microsoft/phi-1_5 - Large reasoning/code model (6–8 GB+ RAM recommended)default=False
 ENABLE_MODEL_B = True   # ⚡ all-MiniLM-L6-v2 - Fast, accurate general-purpose embedding model (DEFAULT fallback)True
 ENABLE_MODEL_C = False  # 🔍 multi-qa-MiniLM-L6-cos-V1 - QA-style semantic search optimized, default False
-ENABLE_MODEL_D = False  # ⚡ paraphrase-MiniLM-L3-v2 - Small, quick, and paraphrase-focused, default True
+ENABLE_MODEL_D = True  # ⚡ paraphrase-MiniLM-L3-v2 - Small, quick, and paraphrase-focused, default True
 ENABLE_MODEL_E = True  # 🌍 distiluse-base-multilingual-cased-v2 - Multilingual support (50+ languages),default True
-ENABLE_MODEL_F = False  # 📚 allenai-specter - Scientific document embedding specialist,default True
-ENABLE_MODEL_G = False  # 🔎 intfloat/e5-base - Retrieval-focused high-recall embedding,default True
-ENABLE_MODEL_H = True  # 🧠 microsoft/phi-2 - Smartest small-scale reasoning LLM (better successor to phi-1_5),default False
+ENABLE_MODEL_F = True  # 📚 allenai-specter - Scientific document embedding specialist,default True
+ENABLE_MODEL_G = True  # 🔎 intfloat/e5-base - Retrieval-focused high-recall embedding,default True
+ENABLE_MODEL_H = False  # 🧠 microsoft/phi-2 - Smartest small-scale reasoning LLM (better successor to phi-1_5),default False
 ENABLE_MODEL_I = False  # 🐦 tiiuae/falcon-rw-1b - Lightweight Falcon variant (basic open LLM),default False
-ENABLE_MODEL_J = False # 💬 openchat/openchat-3.5-0106 - ChatGPT-style assistant, fast and open,default True
-ENABLE_MODEL_K = False  # 🧑‍🏫 NousResearch/Nous-Capybara-7B - Helpful assistant-tuned model,default True
+ENABLE_MODEL_J = True # 💬 openchat/openchat-3.5-0106 - ChatGPT-style assistant, fast and open,default True
+ENABLE_MODEL_K = True  # 🧑‍🏫 NousResearch/Nous-Capybara-7B - Helpful assistant-tuned model,default True
 ENABLE_MODEL_L = False  # 🚀 mistralai/Mistral-7B-Instruct-v0.2 - Reasoning & smart generalist <Errors>,default False
 ENABLE_MODEL_M = False  # 🐜 TinyLlama/TinyLlama-1.1B-Chat-v1.0 - For low-resource machines <Errors>,default False
 
@@ -187,7 +187,7 @@ LOCAL_DATA_ENABLED = False # False = Temporary Disable local search until traine
 WEB_RESEARCH_ENABLED = True # True = False Disable Web search Learning. SarahMemoryResearch.py - Class 2
 
 # 🌐 Web Research Source Flags, For SarahMemoryResearch.py - Class 2 - WebSearching and Learning mode
-DUCKDUCKGO_RESEARCH_ENABLED = False #Set True/False for testing purposes (semi-works)
+DUCKDUCKGO_RESEARCH_ENABLED = True #Set True/False for testing purposes (semi-works)
 WIKIPEDIA_RESEARCH_ENABLED = True #Set True/False for testing purposes (works)
 FREE_DICTIONARY_RESEARCH_ENABLED = False #Set True/False for Testing purposes (semi-works)
 

@@ -1,0 +1,10 @@
+{
+    "api_mode": "API",
+    "voice_profile": "Microsoft Zira Desktop - English (United States)",
+    "pitch": 1.5,
+    "bass": 1.3,
+    "treble": 1.2,
+    "avatar_file": "avatar.jpg",
+    "engine_selection": "Auto",
+    "theme": "Light_Theme.css"
+}
