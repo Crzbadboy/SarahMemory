@@ -61,6 +61,7 @@ www.linkedin.com/in/brian-baros-29962a176
 https://www.facebook.com/bbaros
 bbaros1977@gmail.com
 sir_badboy@hotmail.com
+https://www.patreon.com/posts/sarahmemory-ai-131340246
 
 
 
