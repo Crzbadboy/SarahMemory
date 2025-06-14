@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 *.log
-*.db
 *.bak
 *.zip
 *.vhd
